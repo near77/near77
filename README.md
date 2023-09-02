@@ -16,11 +16,11 @@
 
 ## Experience
  - Backend Development
+ - Algorithms
  - Machine Learning
  - Deep Learning
  - Computer Vision
  - Security
- - Algorithms
    
 ## Stats
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=midnightbot&show_icons=true&theme=blue-green" alt="midnightbot" /> -->
