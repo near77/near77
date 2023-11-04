@@ -9,6 +9,7 @@
 [![LeetCode](https://img.shields.io/badge/-Leetcode-orange?&logo=Leetcode&logoColor=white)](https://leetcode.com/near6334/)
 
 - Software Engineer @ Trend Micro
+- Software Engineer Intern @ ITRI
 - Master of CS, NCTU
 - Bachelor of EE, NTUT
 
