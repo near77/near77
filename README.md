@@ -8,6 +8,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:near6334@gmail.com)
 [![LeetCode](https://img.shields.io/badge/-Leetcode-orange?&logo=Leetcode&logoColor=white)](https://leetcode.com/near6334/)
 
+- Software Engineer @ Google
 - Software Engineer @ Trend Micro
 - Software Engineer Intern @ ITRI
 - Master of CS, NCTU
@@ -16,6 +17,8 @@
 <br/>
 
 ## Experience
+ - Android AI
+ - Cloud AI
  - Backend Development
  - Algorithms
  - Machine Learning
